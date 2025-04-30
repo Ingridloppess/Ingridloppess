@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou a Ingrid!
-- 👀  Sou graduanda em Ciência da Computação pela Unimetrocamp e atualmente Estagiária de Privacidade. Meu interesse pela área de dados tem crescido cada vez mais, e através do meu estágio, estou tendo a oportunidade de me desenvolver continuamente nesse campo.
+- 👀  Sou graduanda em Ciência da Computação pela Unimetrocamp e atualmente Estagiária de Business Intelligence. Meu interesse pela área de dados tem crescido cada vez mais, e através do meu estágio, estou tendo a oportunidade de me desenvolver continuamente nesse campo.
 
 Sobre mim:  
 Minha jornada na área de tecnologia começou com o incentivo da minha mãe. Quando me perguntavam o que eu queria ser quando crescesse, eu nunca tinha uma resposta certa, mas sabia que queria ter várias tatuagens e alguns piercings. Minha mãe, ao perceber minha facilidade com exatas, me olhou e disse: "Vai fazer TI então." E aqui estou eu.
