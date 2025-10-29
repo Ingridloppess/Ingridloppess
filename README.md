@@ -18,7 +18,7 @@ Futebol: Joguei futebol durante 11 anos e fiz parte da base da Ponte Preta aos 1
 📫 Sinta-se à vontade para me enviar uma mensagem!    
 
 - Gmail:Ingridloppess@gmail.com
-- Linkedin:https://www.linkedin.com/in/ingrid-lopes-7648051a7/
+- Linkedin:https://www.linkedin.com/in/ingridloppess/
 
 
 <!---
